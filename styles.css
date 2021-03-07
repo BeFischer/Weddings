@@ -1,0 +1,16 @@
+.navbar {
+  margin: 40px;
+  padding: 40px;
+}
+
+.col {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  margin: 40px;
+}
+
+img {
+  border: 1px solid blue;
+}
