@@ -9,3 +9,9 @@
 img {
   border: 1px solid blue;
 }
+
+@media (max-width: 576px) {
+  .closing {
+    font-size: 14px;
+  }
+}
