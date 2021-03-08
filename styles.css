@@ -2,9 +2,6 @@
   margin-left: 20px;
 }
 
-.photo {
-  display: flex;
-}
 .col {
   display: flex;
   justify-content: center;
