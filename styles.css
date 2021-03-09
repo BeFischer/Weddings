@@ -38,3 +38,7 @@ p {
     font-size: 14px;
   }
 }
+
+.copyright a {
+  text-align: center;
+}
