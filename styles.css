@@ -26,7 +26,9 @@ img {
   border: 1px solid blue;
   border-radius: 5px;
 }
-
+h1 {
+  font-size: 30px;
+}
 p {
   font-size: 14px;
 }
