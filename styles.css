@@ -27,11 +27,12 @@ img {
   border-radius: 5px;
 }
 
+p {
+  font-size: 14px;
+}
+
 @media (max-width: 576px) {
   .closing {
     font-size: 14px;
   }
-}
-.footer {
-  padding: 60px;
 }
