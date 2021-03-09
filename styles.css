@@ -18,7 +18,10 @@ body {
   padding-top: 20px;
   padding-left: 120px;
 }
-
+.celebrate {
+  background-image: url("celebrations/fischerSrChristmas.jpg");
+  opacity: 0.5;
+}
 img {
   border: 1px solid blue;
   border-radius: 5px;
@@ -28,4 +31,7 @@ img {
   .closing {
     font-size: 14px;
   }
+}
+.footer {
+  padding: 60px;
 }
