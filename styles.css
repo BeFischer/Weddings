@@ -23,7 +23,7 @@ body {
   opacity: 0.5;
 }
 img {
-  border: 1px solid blue;
+  border: none;
   border-radius: 5px;
 }
 h1 {
