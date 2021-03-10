@@ -34,11 +34,7 @@ p {
 }
 
 @media (max-width: 576px) {
-  .closing {
-    font-size: 14px;
+  p {
+    font-size: 10px;
   }
-}
-
-.copyright a {
-  text-align: center;
 }
