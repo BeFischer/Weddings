@@ -10,6 +10,7 @@
 }
 body {
   background: var(--b-color);
+  text-align: center;
 }
 .container {
   margin-top: 60px;
