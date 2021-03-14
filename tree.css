@@ -34,8 +34,44 @@ margin-bottom:0px;
   margin-left:95px;
   transform: rotate(90deg);
 }
+.childconnector2 {
+  display: inline-block;
+  width: 45px;
+  margin: 0px;
+  padding-top: 0px;
+  margin-left:185px;
+  transform: rotate(90deg);
+}
+.horizontalconnector{
+  display: inline-block;
+  width: 100px;
+  margin-left:107px;
+  padding-top: 0px;
+  margin-bottom:0px;
+}
+.verticalconnector {
+  display: inline-block;
+  width: 45px;
+  margin: 0px;
+  padding-top: 0px;
+  margin-left:80px;
+  transform: rotate(90deg);
+}
+.verticalconnector2 {
+  display: inline-block;
+  width: 45px;
+  margin: 0px;
+  padding-top: 0px;
+  margin-left:56px;
+  transform: rotate(90deg);
+}
 
 .children
+ {  
+  margin-left: 25px;
+  margin-top:28px;
+}
+.children2
  {  
   margin-left: 25px;
   margin-top:28px;
@@ -45,6 +81,20 @@ margin-bottom:0px;
  {border: 1px solid blue;
   padding: 10px;
   margin:0px;
+}
+.childconnector3 {
+  display: inline-block;
+  width: 55px;
+  margin: 0px;
+  margin-left:170px;
+  margin-bottom:0px;
+  padding:0;
+  transform: rotate(90deg);
+}
+.children3
+ {  
+  margin-left: 5px;
+  margin-top:28px;
 }
 
 
