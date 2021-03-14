@@ -49,6 +49,14 @@ margin-bottom:0px;
   padding-top: 0px;
   margin-bottom:0px;
 }
+.horizontalconnector3{
+  display: inline-block;
+  width: 350px;
+  margin-left:107px;
+  padding-top: 0px;
+  margin-bottom:0px;
+}
+
 .verticalconnector {
   display: inline-block;
   width: 45px;
@@ -63,6 +71,15 @@ margin-bottom:0px;
   margin: 0px;
   padding-top: 0px;
   margin-left:56px;
+  transform: rotate(90deg);
+}
+
+.verticalconnector3 {
+  display: inline-block;
+  width: 45px;
+  margin: 0px;
+  padding-top: 0px;
+  margin-left:325px;
   transform: rotate(90deg);
 }
 
