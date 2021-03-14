@@ -3,6 +3,7 @@
   padding: 0;
 }*/
 
+body {font-size:10px;}
 .name,
 .namespouse {
   border: 1px solid blue;
