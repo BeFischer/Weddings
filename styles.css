@@ -3,6 +3,7 @@
   --secondary-color: none;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   --b-color: -o-linear-gradient(rgb(138, 138, 116), rgb(250, 243, 243));
+  --linktomap: rgb(0, 255, 179);
 }
 .navbar {
   padding-left: 80px;
@@ -15,13 +16,37 @@ body {
 .container {
   margin-top: 60px;
 }
-.col-6 {
-  padding-top: 20px;
-  padding-left: 120px;
-}
-.moreinfo {
+.fa-bell {
   position: relative;
-  top: -60px;
+  top: -570px;
+  right: -450px;
+  width: 200px;
+  height: 100px;
+}
+
+.linktomap {
+  color: var(--linktomap);
+}
+.fa-dove {
+  position: relative;
+  top: -550px;
+  right: -170px;
+  width: 200px;
+  height: 100px;
+}
+.fa-tree {
+  position: relative;
+  top: -660px;
+  right: -450px;
+  width: 200px;
+  height: 100px;
+}
+.fa-atom {
+  position: relative;
+  top: -540px;
+  right: -700px;
+  width: 200px;
+  height: 100px;
 }
 /*.celebrate {
   background-image: url("celebrations/fischerSrChristmas.jpg");
