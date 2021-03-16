@@ -36,15 +36,15 @@ body {
 }
 .fa-tree {
   position: relative;
-  top: -660px;
-  right: -450px;
+  top: -440px;
+  right: -870px;
   width: 200px;
   height: 100px;
 }
 .fa-atom {
   position: relative;
-  top: -540px;
-  right: -700px;
+  top: -320px;
+  right: -1120px;
   width: 200px;
   height: 100px;
 }
