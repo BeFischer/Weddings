@@ -29,8 +29,8 @@ body {
 }
 .fa-dove {
   position: relative;
-  top: -550px;
-  right: -170px;
+  top: -180px;
+  right: -230px;
   width: 200px;
   height: 100px;
 }
@@ -45,6 +45,13 @@ body {
   position: relative;
   top: -320px;
   right: -1120px;
+  width: 200px;
+  height: 100px;
+}
+.fa-sun {
+  position: relative;
+  top: -380px;
+  right: -1070px;
   width: 200px;
   height: 100px;
 }
