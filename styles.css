@@ -55,6 +55,20 @@ body {
   width: 200px;
   height: 100px;
 }
+.fa-moon {
+  position: relative;
+  top: -180px;
+  right: -450px;
+  width: 200px;
+  height: 100px;
+}
+.fa-star {
+  position: relative;
+  top: -360px;
+  right: -1070px;
+  width: 200px;
+  height: 100px;
+}
 /*.celebrate {
   background-image: url("celebrations/fischerSrChristmas.jpg");
   opacity: 0.5;
