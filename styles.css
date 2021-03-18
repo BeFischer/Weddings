@@ -26,48 +26,43 @@ body {
 
 .linktomap {
   color: var(--linktomap);
+  width: 200px;
+  height: 100px;
 }
 .fa-dove {
   position: relative;
   top: -180px;
   right: -230px;
-  width: 200px;
-  height: 100px;
 }
 .fa-tree {
   position: relative;
   top: -480px;
   right: -870px;
-  width: 200px;
-  height: 100px;
 }
 .fa-atom {
   position: relative;
   top: -320px;
   right: -1120px;
-  width: 200px;
-  height: 100px;
 }
 .fa-sun {
   position: relative;
   top: -380px;
   right: -1070px;
-  width: 200px;
-  height: 100px;
 }
 .fa-moon {
   position: relative;
   top: -180px;
   right: -450px;
-  width: 200px;
-  height: 100px;
 }
 .fa-star {
   position: relative;
   top: -360px;
   right: -1070px;
-  width: 200px;
-  height: 100px;
+}
+.fa-fish {
+  position: relative;
+  top: -160px;
+  right: -800px;
 }
 /*.celebrate {
   background-image: url("celebrations/fischerSrChristmas.jpg");
