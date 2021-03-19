@@ -26,8 +26,8 @@ body {
 
 .linktomap {
   color: var(--linktomap);
-  width: 200px;
-  height: 100px;
+  width: 10px;
+  height: 10px;
 }
 .fa-dove {
   position: relative;
@@ -36,13 +36,13 @@ body {
 }
 .fa-tree {
   position: relative;
-  top: -480px;
-  right: -870px;
+  top: -380px;
+  right: -680px;
 }
 .fa-atom {
   position: relative;
-  top: -320px;
-  right: -1120px;
+  top: -220px;
+  right: -900px;
 }
 .fa-sun {
   position: relative;
@@ -56,7 +56,7 @@ body {
 }
 .fa-star {
   position: relative;
-  top: -360px;
+  top: -260px;
   right: -1070px;
 }
 .fa-fish {
