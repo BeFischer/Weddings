@@ -64,6 +64,12 @@ body {
   top: -160px;
   right: -800px;
 }
+.fa-anchor {
+  position: relative;
+  top: -340px;
+  right: -420px;
+}
+
 /*.celebrate {
   background-image: url("celebrations/fischerSrChristmas.jpg");
   opacity: 0.5;
