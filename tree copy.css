@@ -30,7 +30,7 @@
 }
 
 /*We will use ::before and ::after to draw the connectors*/
-
+/*
 .tree li::before,
 .tree li::after {
   content: "";
