@@ -4,6 +4,7 @@
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   --b-color: -o-linear-gradient(rgb(138, 138, 116), rgb(250, 243, 243));
   --linktomap: rgb(0, 255, 179);
+  --stories: rgb(235, 70, 169);
 }
 .navbar {
   padding-left: 80px;
@@ -29,6 +30,12 @@ body {
   width: 10px;
   height: 10px;
 }
+.stories {
+  color: var(--stories);
+  width: 10px;
+  height: 10px;
+}
+
 .fa-dove {
   position: relative;
   top: -180px;
@@ -68,6 +75,32 @@ body {
   position: relative;
   top: -320px;
   right: -390px;
+}
+.fa-book {
+  position: relative;
+  top: -250px;
+  right: -600px;
+  cursor: pointer;
+}
+.fa-star {
+  position: relative;
+  top: -400px;
+  right: -450px;
+  cursor: pointer;
+}
+.story {
+  display: none;
+}
+.fa-book:hover + .story,
+.fa-star:hover + .story {
+  display: block;
+  background: rgb(243, 242, 240);
+  font-size: 20px;
+  position: relative;
+  top: -350px;
+  right: -600px;
+  width: 500px;
+  text-align: center;
 }
 
 /*.celebrate {
